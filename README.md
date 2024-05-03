@@ -8,7 +8,6 @@
 
 <p align="left">
 <a href="https://twitter.com/ninovalex11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ninovalex11" height="25" width="25" /></a>
-  
 <a href="https://linkedin.com/in/iamalexninov11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamalexninov11" height="25" width="25" /></a>
 </p>
 

@@ -10,15 +10,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="left">Yoo people 👋</h1>
 
 ###
 
@@ -61,6 +53,7 @@
 ###
 
 <div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=iamalexninov&theme=dark)](https://git.io/streak-stats)
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 

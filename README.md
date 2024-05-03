@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on **Zonin Showroom**
 - 👯 I’m looking to collaborate on **Zonin Showroom**
-- 📫 How to reach me **iamalexgninov@gmail.com**
+- 📫 How to reach me - **iamalexgninov@gmail.com**
 

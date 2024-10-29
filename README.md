@@ -1,6 +1,5 @@
 <h3 align="left">Yo people 👋, I'm Alex Ninov</h3>
 
-- 🔭 I’m currently working on **Auto Zonin**
-- 👯 I’m looking to collaborate on **Auto Zonin**
+- 🔭 I’m currently learning **C#, SQL, .NET**
 - 📫 How to reach me - **iamalexgninov@gmail.com**
 

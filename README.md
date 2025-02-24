@@ -2,5 +2,5 @@
 
 - 📫 How to reach me: 
 - By Email - **iamalexgninov@gmail.com**
-- By Linkedin - linkedin.com/in/iamalexninov11
+- By Linkedin - **linkedin.com/in/iamalexninov11**
 
